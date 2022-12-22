@@ -1,4 +1,5 @@
 google.com, pub-3348832711188268, DIRECT, f08c47fec0942fa0
+yandex.ru, e43b4b1300fc721a853ed597d02e8df2
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
 facebook.com, 4877824688973300, DIRECT, c3e20eee3f780d68
 applovin.com, 5405dc2cd72e4b7ccafffd561b53e954, DIRECT
